@@ -1,0 +1,25 @@
+
+======= LOTE: 1 =======
+
+Proceso 1: Carolina, 5 - 10 
+Tiempo: 6s
+Proceso 2: Juan, 5 + 2 
+Tiempo: 10s
+Proceso 3: Juan, 1 - 1 
+Tiempo: 11s
+Proceso 4: Carolina, 6 * 8 
+Tiempo: 6s
+Proceso 5: Jose, 1 + 5 
+Tiempo: 6s
+
+======= LOTE: 2 =======
+
+Proceso 6: Carolina, 1 - 3 
+Tiempo: 10s
+Proceso 7: Carlos, 3 * 10 
+Tiempo: 8s
+Proceso 8: Jose, 7 / 6 
+Tiempo: 11s
+Proceso 9: Juan, 9 / 10 
+Tiempo: 13s
+
